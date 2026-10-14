@@ -1,8 +1,8 @@
 <?php
 
 /**
- * Plugin Name: WPMU Fatal Error When Enqueued Too Early
- * Description: Throws a descriptive exception when scripts or styles are registered or enqueued before the appropriate WordPress hook.
+ * Plugin Name: WPMU Allow Sentry Agent
+ * Description: Allows running a local Sentry agent
  * Version: 0.1.0
  * Author:      Helsingborgs stad
  */
