@@ -15,7 +15,7 @@
         "composer/installers": "^2.3",
         "sentry/sentry": "^4.34"
     },
-    "version": "0.1.2",
+    "version": "0.1.0",
     "config": {
         "allow-plugins": {
             "composer/installers": true
