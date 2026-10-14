@@ -1,0 +1,24 @@
+{
+    "name": "helsingborg-stad/wpmu-allow-sentry-agent",
+    "homepage": "https://github.com/helsingborg-stad/wpmu-allow-sentry-agent",
+    "description": "Allow connecting to a local Sentry agent.",
+    "type": "wordpress-muplugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thor Brink",
+            "email": "thor.brink@helsingborg.se"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "composer/installers": "^2.3",
+        "sentry/sentry": "^4.34"
+    },
+    "version": "0.1.2",
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true
+        }
+    }
+}
