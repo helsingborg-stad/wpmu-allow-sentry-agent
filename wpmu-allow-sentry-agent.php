@@ -3,7 +3,7 @@
 /**
  * Plugin Name: WPMU Allow Sentry Agent
  * Description: Allows running a local Sentry agent
- * Version: 0.1.1
+ * Version: 0.1.2
  * Author:      Helsingborgs stad
  */
 
