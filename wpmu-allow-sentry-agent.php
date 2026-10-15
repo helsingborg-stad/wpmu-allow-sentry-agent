@@ -7,8 +7,6 @@
  * Author:      Helsingborgs stad
  */
 
-namespace WPMUAllowSentryAgent;
-
 use Sentry\Agent\Transport\AgentClientBuilder;
 use Sentry\ClientBuilder;
 
